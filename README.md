@@ -27,7 +27,7 @@ You can check the [code](https://github.com/michaladamiak/memory) but I strongly
 
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 23 47 17" src="https://user-images.githubusercontent.com/102157058/161345641-6623db25-7a28-4a3d-a39f-2a3784d62115.png">
 
-It's a simple variation about Pac-Man in JavaScript. The initial idea I got from Ania Kubow's tutorial on YouTube. I've spend few hours working on algoritm of movement for enemies but in the end it works quite well and the game is quite challanging. Yet there are still few things that need to be done (meybe I will find some time to get beck to this project in the future).
+It's a simple variation about Pac-Man in JavaScript. The initial idea I got from Ania Kubow's tutorial on YouTube. I've spend few hours working on algoritm of movement for enemies but in the end it works well and the game is quite challanging. Yet there are still few things that need to be done (meybe I will find some time to get beck to this project in the future).
 
 [Try it](https://michaladamiak.github.io/Pac-Man-ish/), you can also check the code [here](https://github.com/michaladamiak/Pac-Man-ish).
 
