@@ -2,7 +2,7 @@
 
 My name is Michał and I'm trying to take my first steps to become web developer.
 
-I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. Thats why I want to take samall turn on my career path and focus on software egineering rather than data analytics.
+I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. That's why I want to take samall turn on my career path and focus on software egineering rather than data analytics.
 
 Here are some of the projects that I've been working on for the past few weeks: 
 
