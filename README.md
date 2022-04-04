@@ -2,7 +2,7 @@
 
 My name is Michał and I'm trying to take my first steps to become web developer.
 
-I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. That's why I want to take samall turn on my career path and focus on software egineering rather than data analytics.
+I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. That's why I want to take small turn on my career path and focus on software engineering rather than data analytics.
 
 Here are some of the projects that I've been working on for the past few weeks: 
 
@@ -19,7 +19,7 @@ You can visit the site [here](https://michaladamiak.github.io/).
 
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 20 41 34" src="https://user-images.githubusercontent.com/102157058/161323290-6de16190-0b88-482b-b7c6-60b85b3558a0.png">
 
-I know there are many tutorials of how to build such game but I wanted to do it on my own from the very beginning. Therefore I'm aware that the code itself is not perfect, but I'm still pleased with how this thing turned out.
+I know there are many tutorials of how to build such game, but I wanted to do it on my own from the very beginning. Therefore, I'm aware that the code itself is not perfect, but I'm still pleased with how this thing turned out.
 
 You can check the [code](https://github.com/michaladamiak/memory) but I strongly suggest you to [try it out](https://michaladamiak.github.io/memory/)!
 
@@ -27,22 +27,6 @@ You can check the [code](https://github.com/michaladamiak/memory) but I strongly
 
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 23 47 17" src="https://user-images.githubusercontent.com/102157058/161345641-6623db25-7a28-4a3d-a39f-2a3784d62115.png">
 
-It's a simple variation about Pac-Man in JavaScript. The initial idea I got from Ania Kubow's tutorial on YouTube. I've spend few hours working on algoritm of movement for enemies but in the end it works well and the game is quite challanging. Yet there are still few things that need to be done (meybe I will find some time to get beck to this project in the future).
+It's a simple variation about Pac-Man in JavaScript. The initial idea I got from Ania Kubow's tutorial on YouTube. I've spent few hours working on algorithm of movement for enemies but in the end, it works well and the game is quite challenging. Yet there are still few things that need to be done (maybe I will find some time to get back to this project in the future).
 
 [Try it](https://michaladamiak.github.io/Pac-Man-ish/), you can also check the code [here](https://github.com/michaladamiak/Pac-Man-ish).
-
-
-<!--
-**michaladamiak/michaladamiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
