@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michał and I'm trying to take my first steps to become web developer.
+My name is Michał and I'm trying to take my first steps to become software developer.
 
 I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. That's why I want to take small turn on my career path and focus on software engineering rather than data analytics.
 
