@@ -37,7 +37,7 @@ It's a simple variation about Pac-Man in JavaScript. The initial idea I got from
 
 It's React App that allows you to plan your computer setup and calculate total cost of all elements. It saves your progress in local storage so that you can get back to is whenever you want.
 
-Here's the [link](https://michaladamiak.github.io/SetupCalculator/)
+Here's the [link](https://michaladamiak.github.io/SetupCalculator/).
 
 
 
