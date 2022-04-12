@@ -5,11 +5,10 @@ My name is Michał and I'm trying to take my first steps to become software deve
 I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. That's why I want to take small turn on my career path and focus on software engineering rather than data analytics.
 
 Here are some of the projects that I've been working on for the past few weeks: 
-
-
-
+\
+\
 ### Sample portfolio
-
+---
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 20 40 38" src="https://user-images.githubusercontent.com/102157058/161323050-f0aedaff-9278-48d7-b4ae-7b5f9b3722be.png">
 
 
