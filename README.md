@@ -14,6 +14,7 @@ Here are some of the projects that I've been working on for the past few weeks:
 This was the first site I've ever created on my own when I wanted to play with CSS. It contains form that allows you to send me an email, feel free to use it!
 
 You can visit the site [here](https://michaladamiak.github.io/).
+
 ---
 \
 
@@ -24,6 +25,7 @@ You can visit the site [here](https://michaladamiak.github.io/).
 I know there are many tutorials of how to build such game, but I wanted to do it on my own from the very beginning. Therefore, I'm aware that the code itself is not perfect, but I'm still pleased with how this thing turned out.
 
 You can check the [code](https://github.com/michaladamiak/memory) but I strongly suggest you to [try it out](https://michaladamiak.github.io/memory/)!
+
 ---
 \
 
