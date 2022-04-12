@@ -30,3 +30,15 @@ You can check the [code](https://github.com/michaladamiak/memory) but I strongly
 It's a simple variation about Pac-Man in JavaScript. The initial idea I got from Ania Kubow's tutorial on YouTube. I've spent few hours working on algorithm of movement for enemies but in the end, it works well and the game is quite challenging. Yet there are still few things that need to be done (maybe I will find some time to get back to this project in the future).
 
 [Try it](https://michaladamiak.github.io/Pac-Man-ish/), you can also check the code [here](https://github.com/michaladamiak/Pac-Man-ish).
+
+### Computer Setup Calculator
+
+<img width="981" alt="Zrzut ekranu 2022-04-12 o 15 13 46" src="https://user-images.githubusercontent.com/102157058/162970893-a8504ced-7238-400e-ad87-cb41a2925b5f.png">
+
+It's React App that allows you to plan your computer setup and calculate all costs. It saves your progress in local storage so that you can get back to is whenever you want.
+
+Here's the [link](https://michaladamiak.github.io/SetupCalculator/)
+
+
+
+
