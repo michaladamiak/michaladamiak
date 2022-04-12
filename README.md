@@ -35,7 +35,7 @@ It's a simple variation about Pac-Man in JavaScript. The initial idea I got from
 
 <img width="700" alt="Zrzut ekranu 2022-04-12 o 15 13 46" src="https://user-images.githubusercontent.com/102157058/162970893-a8504ced-7238-400e-ad87-cb41a2925b5f.png">
 
-It's React App that allows you to plan your computer setup and calculate all costs. It saves your progress in local storage so that you can get back to is whenever you want.
+It's React App that allows you to plan your computer setup and calculate total cost of all elements. It saves your progress in local storage so that you can get back to is whenever you want.
 
 Here's the [link](https://michaladamiak.github.io/SetupCalculator/)
 
