@@ -8,7 +8,6 @@ Here are some of the projects that I've been working on for the past few weeks:
 
 ### Sample portfolio
 
-\
 
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 20 40 38" src="https://user-images.githubusercontent.com/102157058/161323050-f0aedaff-9278-48d7-b4ae-7b5f9b3722be.png">
 
