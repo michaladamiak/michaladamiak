@@ -7,7 +7,8 @@ I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've al
 Here are some of the projects that I've been working on for the past few weeks: 
 
 ### Sample portfolio
----
+
+\
 
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 20 40 38" src="https://user-images.githubusercontent.com/102157058/161323050-f0aedaff-9278-48d7-b4ae-7b5f9b3722be.png">
 
@@ -17,7 +18,6 @@ This was the first site I've ever created on my own when I wanted to play with C
 You can visit the site [here](https://michaladamiak.github.io/).
 
 ---
-\
 
 ### Memory game
 
@@ -28,7 +28,6 @@ I know there are many tutorials of how to build such game, but I wanted to do it
 You can check the [code](https://github.com/michaladamiak/memory) but I strongly suggest you to [try it out](https://michaladamiak.github.io/memory/)!
 
 ---
-\
 
 ### Pac-Man-ish game
 
@@ -37,7 +36,7 @@ You can check the [code](https://github.com/michaladamiak/memory) but I strongly
 It's a simple variation about Pac-Man in JavaScript. The initial idea I got from Ania Kubow's tutorial on YouTube. I've spent few hours working on algorithm of movement for enemies but in the end, it works well and the game is quite challenging. Yet there are still few things that need to be done (maybe I will find some time to get back to this project in the future).
 
 [Try it](https://michaladamiak.github.io/Pac-Man-ish/), you can also check the code [here](https://github.com/michaladamiak/Pac-Man-ish).
-\
+
 ---
 
 ### Computer Setup Calculator
