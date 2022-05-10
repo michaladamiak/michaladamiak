@@ -2,9 +2,18 @@
 
 My name is Michał and I'm trying to take my first steps to become software developer.
 
-I'm currently studying Bid Data Analytics at Warsaw School of Economics. I've always been interested in design and creating products that you can interact with. That's why I want to take small turn on my career path and focus on software engineering rather than data analytics.
-
 Here are some of the projects that I've been working on for the past few weeks: 
+
+### Food ordering App
+
+
+<img width="484" alt="Zrzut ekranu 2022-05-10 o 21 35 06" src="https://user-images.githubusercontent.com/102157058/167708197-cc177cf6-ee01-4e1c-8dcc-0030470f409c.png">
+
+I've made this website for my friend's restaurant with React. Solutions used: hooks - useState, useContext, useEffect, useRef; CSS Modules; Portals.
+
+[Check it out.](https://michaladamiak.github.io/ramenownia/)
+
+---
 
 ### Sample portfolio
 
@@ -48,6 +57,6 @@ Here's the [link](https://michaladamiak.github.io/SetupCalculator/).
 
 ---
 
-https://michaladamiak.github.io/ramenownia/
+
 
 
