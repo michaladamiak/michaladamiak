@@ -54,8 +54,5 @@ It's React App that allows you to plan your computer setup and calculate total c
 
 Here's the [link](https://michaladamiak.github.io/SetupCalculator/).
 
----
-
-
 
 
