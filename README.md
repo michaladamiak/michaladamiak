@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My name is Michał and I'm trying to take my first steps to become software developer.
-
-Here are some of the projects that I've been working on for the past few weeks: 
+My name is Michał and I'm trying to take my first steps to become software developer. Here are some of the projects that I've been working on for the past few weeks: 
 
 ### Food ordering App
 
