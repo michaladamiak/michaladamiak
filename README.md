@@ -7,7 +7,8 @@ Here are some of the projects that I've been working on for the past few weeks:
 ### Food ordering App
 
 
-<img width="484" alt="Zrzut ekranu 2022-05-10 o 21 35 06" src="https://user-images.githubusercontent.com/102157058/167708197-cc177cf6-ee01-4e1c-8dcc-0030470f409c.png">
+<img width="940" alt="Zrzut ekranu 2022-05-10 o 21 53 14" src="https://user-images.githubusercontent.com/102157058/167711085-5901eee7-be96-4763-b1db-911815158d9e.png">
+
 
 I've made this website for my friend's restaurant with React. Solutions used: hooks - useState, useContext, useEffect, useRef; CSS Modules; Portals.
 
