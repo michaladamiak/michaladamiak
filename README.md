@@ -30,7 +30,7 @@ You can visit the site [here](https://michaladamiak.github.io/).
 
 <img width="700" alt="Zrzut ekranu 2022-04-1 o 20 41 34" src="https://user-images.githubusercontent.com/102157058/161323290-6de16190-0b88-482b-b7c6-60b85b3558a0.png">
 
-Technology: Vanilla JavaScript
+The game is made in Vanilla JavaScript.
 <!-- I know there are many tutorials of how to build such game, but I wanted to do it on my own from the very beginning. Therefore, I'm aware that the code itself is not perfect, but I'm still pleased with how this thing turned out. -->
 
 You can check the [code](https://github.com/michaladamiak/memory) but I strongly suggest you to [try it out](https://michaladamiak.github.io/memory/)!
