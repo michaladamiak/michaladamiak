@@ -1,6 +1,17 @@
 ## Hi there 👋
 Here are some of the projects that I've been working on lately:
 
+### Food ordering App in React JS
+
+<img width="700" alt="Zrzut ekranu 2022-05-10 o 21 53 14" src="https://user-images.githubusercontent.com/102157058/167711085-5901eee7-be96-4763-b1db-911815158d9e.png">
+
+
+<!-- I've made this website for my friend's restaurant with ReactJS. Solutions used: hooks - useState, useContext, useEffect, useRef; CSS Modules; Portals. -->
+
+[Check it out.](https://michaladamiak.github.io/ramenownia/)
+
+---
+
 ### Restaurant website with responsive snap scrolling
 
 
@@ -19,18 +30,6 @@ Here are some of the projects that I've been working on lately:
 
 
 [Check it out.](https://michaladamiak.github.io/companeros2/)
-
----
-
-### Food ordering App in React JS
-
-
-<img width="700" alt="Zrzut ekranu 2022-05-10 o 21 53 14" src="https://user-images.githubusercontent.com/102157058/167711085-5901eee7-be96-4763-b1db-911815158d9e.png">
-
-
-<!-- I've made this website for my friend's restaurant with ReactJS. Solutions used: hooks - useState, useContext, useEffect, useRef; CSS Modules; Portals. -->
-
-[Check it out.](https://michaladamiak.github.io/ramenownia/)
 
 ---
 
