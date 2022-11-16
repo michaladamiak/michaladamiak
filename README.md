@@ -23,7 +23,7 @@ Here are some of the projects that I've been working on lately:
 
 ---
 
-### Another website with more tradicional approach 
+### Another website with more traditional approach 
 
 
 <img width="700" alt="Zrzut ekranu 2022-11-16 o 13 01 33" src="https://user-images.githubusercontent.com/102157058/202175779-4fd3d6fe-cf19-4f5b-9618-c78dea4c0529.png">
