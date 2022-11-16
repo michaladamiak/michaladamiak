@@ -4,18 +4,18 @@ Here are some of the projects that I've been working on lately:
 ### Restaurant website with responsive snap scrolling
 
 
-<img width="700" alt="Zrzut ekranu 2022-11-16 o 12 40 09" src="https://user-images.githubusercontent.com/102157058/202171950-1b51db16-09db-4cb4-887a-eb87fc35f275.png">
+<img width="700" alt="Zrzut ekranu 2022-11-16 o 13 00 26" src="https://user-images.githubusercontent.com/102157058/202175708-011eeaf1-0b57-4313-8c0d-3cd56f0b3d8c.png">
+
 
 
 [Check it out.](https://michaladamiak.github.io/companeros/)
 
 ---
 
-
 ### Another website with more tradicional approach 
 
 
-<img width="700" alt="Zrzut ekranu 2022-11-16 o 12 41 34" src="https://user-images.githubusercontent.com/102157058/202172463-fcb785ce-3653-4f08-9082-938e68e09242.png">
+<img width="700" alt="Zrzut ekranu 2022-11-16 o 13 01 33" src="https://user-images.githubusercontent.com/102157058/202175779-4fd3d6fe-cf19-4f5b-9618-c78dea4c0529.png">
 
 
 [Check it out.](https://michaladamiak.github.io/companeros2/)
