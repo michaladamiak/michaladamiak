@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-My name is Michał and I'm trying to take my first steps to become software developer. Here are some of the projects that I've been working on for the past few weeks: 
+Here are some of the projects that I've been working on lately:
 
-### Food ordering App
+### Food ordering App in React JS
 
 
 <img width="700" alt="Zrzut ekranu 2022-05-10 o 21 53 14" src="https://user-images.githubusercontent.com/102157058/167711085-5901eee7-be96-4763-b1db-911815158d9e.png">
 
 
-I've made this website for my friend's restaurant with ReactJS. Solutions used: hooks - useState, useContext, useEffect, useRef; CSS Modules; Portals.
+<!-- I've made this website for my friend's restaurant with ReactJS. Solutions used: hooks - useState, useContext, useEffect, useRef; CSS Modules; Portals. -->
 
 [Check it out.](https://michaladamiak.github.io/ramenownia/)
 
@@ -51,7 +51,7 @@ It's a simple variation about Pac-Man in Vanilla JavaScript.
 
 <img width="700" alt="Zrzut ekranu 2022-04-12 o 15 13 46" src="https://user-images.githubusercontent.com/102157058/162970893-a8504ced-7238-400e-ad87-cb41a2925b5f.png">
 
-It's React App that allows you to plan your computer setup and calculate total cost of all elements. It saves your progress in local storage so that you can get back to is whenever you want.
+It's React App that allows you to plan your computer setup and calculate total cost of all elements. It saves your progress in local storage so that you can get back to it whenever you want.
 
 Here's the [link](https://michaladamiak.github.io/SetupCalculator/).
 
