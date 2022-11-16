@@ -12,7 +12,7 @@ Here are some of the projects that I've been working on lately:
 ---
 
 
-### Another website with tradicional approach 
+### Another website with more tradicional approach 
 
 
 <img width="700" alt="Zrzut ekranu 2022-11-16 o 12 41 34" src="https://user-images.githubusercontent.com/102157058/202172463-fcb785ce-3653-4f08-9082-938e68e09242.png">
