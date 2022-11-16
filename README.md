@@ -9,6 +9,8 @@ Here are some of the projects that I've been working on lately:
 
 [Check it out.](https://michaladamiak.github.io/companeros/)
 
+---
+
 
 ### Another website with tradicional approach 
 
