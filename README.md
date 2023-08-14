@@ -3,14 +3,21 @@ Here are some of the projects that I've been working on lately:
 
 ### ChatGPT voice assistant
 
-[Code]() 
+JS voice assistant based on OpenAI API with Speech-to-Text and Text-to-Speech libraries 
 
-### Self driving car
+[Code](https://github.com/michaladamiak/AssistantGPT) 
+
+---
+
+### Self-driving car
 
 Course by [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=NkI9ia2cLhc&list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)
 
-<img width="965" alt="Zrzut ekranu 2023-08-14 o 09 55 21" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/6e59fd88-5f62-412e-ad6f-43a9825812d0">
+<img width="700" alt="Zrzut ekranu 2023-08-14 o 09 55 21" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/6e59fd88-5f62-412e-ad6f-43a9825812d0">
 
+[Demo](https://michaladamiak.github.io/sefl-driving-car/) 
+
+---
 
 ### Food ordering App in React JS
 
