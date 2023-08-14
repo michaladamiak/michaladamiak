@@ -1,5 +1,8 @@
 ## Hi there 👋
-Here are some of the projects that I've been working on lately:
+
+Currently I'm working on NLP model for clickbait classification.
+
+Here are some of the latest projects:
 
 ### ChatGPT voice assistant
 
