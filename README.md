@@ -1,6 +1,17 @@
 ## Hi there 👋
 Here are some of the projects that I've been working on lately:
 
+### ChatGPT voice assistant
+
+[Code]() 
+
+### Self driving car
+
+Course by [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=NkI9ia2cLhc&list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)
+
+<img width="965" alt="Zrzut ekranu 2023-08-14 o 09 55 21" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/6e59fd88-5f62-412e-ad6f-43a9825812d0">
+
+
 ### Food ordering App in React JS
 
 <img width="700" alt="Zrzut ekranu 2022-05-10 o 21 53 14" src="https://user-images.githubusercontent.com/102157058/167711085-5901eee7-be96-4763-b1db-911815158d9e.png">
