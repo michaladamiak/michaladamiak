@@ -40,7 +40,7 @@ Course by [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=NkI9ia2cLhc&li
 
 
 
-[Check it out.](https://michaladamiak.github.io/companeros/)
+[Check it out.](https://michaladamiak.github.io/companeros/) (works best in Google Chrome)
 
 ---
 
