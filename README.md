@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently I'm working on NLP model for clickbait classification.
+Currently I'm working on NLP model for detection of clickbaits in headlines scraped from polish news sites.
 
 Here are some of the latest projects:
 
