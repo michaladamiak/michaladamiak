@@ -6,7 +6,7 @@ Here are some of the latest projects:
 
 ### Churn classification
 
-Decision tree model for churn classification
+Decision tree model for churn classification.
 
 [Notebook](https://michaladamiak.github.io/churn-modeling/) 
 
@@ -14,7 +14,7 @@ Decision tree model for churn classification
 
 ### ChatGPT voice assistant
 
-JS voice assistant based on OpenAI API with Speech-to-Text and Text-to-Speech libraries 
+JS voice assistant based on OpenAI API with Speech-to-Text and Text-to-Speech libraries.
 
 [Code](https://github.com/michaladamiak/AssistantGPT) 
 
