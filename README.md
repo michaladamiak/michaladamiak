@@ -8,7 +8,7 @@ Here are some of the latest projects:
 
 Decision tree model for churn classification
 
-[Code](https://github.com/michaladamiak/churn-modeling) 
+[Code](https://michaladamiak.github.io/churn-modeling/) 
 
 ---
 
