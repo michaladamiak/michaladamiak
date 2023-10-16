@@ -4,7 +4,7 @@ Currently I'm working on NLP model for detection of clickbaits in headlines scra
 
 Here are some of the latest projects:
 
-### Churn classification 
+### Churn classification
 
 Decision tree model for churn classification
 
