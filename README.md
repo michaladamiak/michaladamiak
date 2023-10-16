@@ -4,6 +4,14 @@ Currently I'm working on NLP model for detection of clickbaits in headlines scra
 
 Here are some of the latest projects:
 
+### Churn classification 
+
+Decision tree model for churn classification
+
+[Code](https://github.com/michaladamiak/churn-modeling) 
+
+---
+
 ### ChatGPT voice assistant
 
 JS voice assistant based on OpenAI API with Speech-to-Text and Text-to-Speech libraries 
