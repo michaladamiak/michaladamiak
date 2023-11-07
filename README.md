@@ -10,6 +10,8 @@ The aim of this App is to allow user to practice a foreignt language through rea
 
 https://github.com/michaladamiak/michaladamiak/assets/102157058/391c22f1-5d09-4b91-95d7-033357f70f60
 
+[Code](https://github.com/michaladamiak/GPTTutor) 
+
 ---
 
 ### Churn classification
