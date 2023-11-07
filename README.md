@@ -6,8 +6,6 @@ Here are some of the latest projects:
 
 ### GPT based tutor APP
 
-https://github.com/michaladamiak/michaladamiak/assets/102157058/39391b2a-7e4a-45da-998e-a9ad89e34b76
-
 
 ---
 
