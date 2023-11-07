@@ -4,8 +4,11 @@ Currently I'm working on NLP model for detection of clickbaits in headlines scra
 
 Here are some of the latest projects:
 
-### GPT based tutor APP
+### GPT-Based Tutor APP
 
+The aim of this App is to allow user to practice a foreignt language through real-time conversation with AI tutor. The available scenarios are designed to imitate typical situations. One prompt is responsible for keeping a conversation on a specific topic. The other one for assessing the grammar of the user's response. 
+
+https://github.com/michaladamiak/michaladamiak/assets/102157058/19b8f022-6c05-4f29-8bf9-6421495e5d31
 
 ---
 
