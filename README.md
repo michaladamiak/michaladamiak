@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-Currently I'm working on NLP model for detection of clickbaits in headlines scraped from polish news sites.
-
 Here are some of the latest projects:
+
+### Real-time clickbait detection
+
+The following code allows you to check amount of clickbaits currently displayed on 5 most popular polish news websites. It is based on the SVM model trained on data transformed using TF-IDF vectorizer. 
+
+[Notebook](https://michaladamiak.github.io/clickbait/)
+
+---
 
 ### GPT-Based Tutor APP
 
