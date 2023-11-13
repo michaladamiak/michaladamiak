@@ -4,7 +4,7 @@ Here are some of the latest projects:
 
 ### Real-time clickbait detection
 
-The following code allows you to check the amount of clickbaits currently displayed on 5 most popular Polish news websites. It is based on the SVM model trained on data transformed using TF-IDF vectorizer. 
+The following code allows you to check the percentage of clickbaits in headlines currently displayed on 5 most popular Polish news websites. It is based on the SVM model trained on data transformed using TF-IDF vectorizer. 
 
 [Notebook](https://michaladamiak.github.io/clickbait/)
 
