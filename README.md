@@ -28,7 +28,7 @@ https://github.com/michaladamiak/michaladamiak/assets/102157058/391c22f1-5d09-4b
 
 ---
 
-### Churn classification
+### EDA - Churn classification
 
 Decision tree model for churn classification.
 
