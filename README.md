@@ -2,7 +2,7 @@
 
 Here are some of the latest projects:
 
-### Mood - 
+### Mood
 
 The App takes an image of the user that gets analyzed by GPT Computer Vision API. Assistant is asked to recommend a song appropriate for the user's mood. Then the song is automatically opened in Spotify Web Player.
 
