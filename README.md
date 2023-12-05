@@ -2,6 +2,14 @@
 
 Here are some of the latest projects:
 
+### Mood - 
+
+The App takes an image of the user that gets analyzed by GPT Computer Vision API. Assistant is asked to recommend a song appropriate for the user's mood. Then the song is automatically opened in Spotify Web Player.
+
+[Code](https://github.com/michaladamiak/mood/blob/main/mood.py)
+
+---
+
 ### Real-time clickbait detection
 
 The following code allows you to check the percentage of clickbaits in headlines currently displayed on 5 most popular Polish news websites. It is based on the SVM model trained on data transformed using TF-IDF vectorizer. 
