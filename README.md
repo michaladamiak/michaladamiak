@@ -4,7 +4,7 @@ Here are some of the latest projects:
 
 ### Desert
 
-<img width="700" alt="Zrzut ekranu 2024-02-8 o 12 09 00" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/9f889d88-849a-4462-b735-9918118d2d03">
+<img width="600" alt="Zrzut ekranu 2024-02-8 o 12 09 00" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/9f889d88-849a-4462-b735-9918118d2d03">
 
 [Check it out.](https://michaladamiak.github.io/sand/)
 
