@@ -2,27 +2,19 @@
 
 Here are some of the latest projects:
 
-### Desert
-
-<img width="500" alt="Zrzut ekranu 2024-02-8 o 12 09 00" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/9f889d88-849a-4462-b735-9918118d2d03">
-
-[Check it out.](https://michaladamiak.github.io/desert/)
-
----
-
-### Mood
-
-The App takes an image of the user that gets analyzed by DALL-E Computer Vision API. Assistant is asked to recommend a song appropriate for the user's mood. Then the song is automatically opened in Spotify Web Player.
-
-[Code](https://github.com/michaladamiak/mood/blob/main/mood.py)
-
----
-
 ### Real-time clickbait detection
 
-The following code allows you to check the percentage of clickbaits in headlines currently displayed on 5 most popular Polish news websites. It is based on the SVM model trained on data transformed using TF-IDF vectorizer. 
+The following code allows you to check the percentage of clickbaits in headlines currently displayed on 5 most popular Polish news websites. It is based on the SVM model trained on data scraped from popular news sources, labeled and transformed using TF-IDF vectorizer. 
 
 [Notebook](https://michaladamiak.github.io/clickbait/)
+
+---
+
+### EDA - Churn classification
+
+Decision tree model for churn classification.
+
+[Notebook](https://michaladamiak.github.io/churn-modeling/) 
 
 ---
 
@@ -36,11 +28,19 @@ https://github.com/michaladamiak/michaladamiak/assets/102157058/391c22f1-5d09-4b
 
 ---
 
-### EDA - Churn classification
+### Desert
 
-Decision tree model for churn classification.
+<img width="500" alt="Zrzut ekranu 2024-02-8 o 12 09 00" src="https://github.com/michaladamiak/michaladamiak/assets/102157058/9f889d88-849a-4462-b735-9918118d2d03">
 
-[Notebook](https://michaladamiak.github.io/churn-modeling/) 
+[Check it out.](https://michaladamiak.github.io/desert/)
+
+---
+
+### Mood
+
+The App takes an image of the user that gets analyzed by DALL-E Computer Vision API. Assistant is asked to recommend a song appropriate for the user's mood. Then the song is automatically opened in Spotify Web Player.
+
+[Code](https://github.com/michaladamiak/mood/blob/main/mood.py)
 
 ---
 
