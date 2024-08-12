@@ -2,6 +2,15 @@
 
 Here are some of the latest projects:
 
+### DinosAIr - still in progress...
+
+Watch AI learn to play Google Chrome dinosaur game using deep reinforcement learning.
+
+[Play](https://michaladamiak.github.io/clickbait/)
+
+---
+
+
 ### Real-time clickbait detection
 
 The following code allows you to check the percentage of clickbaits in headlines currently displayed on 5 most popular Polish news websites. It is based on the SVM model trained on data scraped from popular news sources, labeled and transformed using TF-IDF vectorizer. 
