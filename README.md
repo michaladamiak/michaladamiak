@@ -4,7 +4,7 @@ Here are some of the latest projects:
 
 ### DinosAIr - still in progress...
 
-Watch AI learn to play Google Chrome dinosaur game using deep reinforcement learning. So far the learning is not very efficient, I'm working on adjusting configuration and environment signals to improve the process.
+Watch AI learn to play Google Chrome dinosaur game using deep reinforcement learning. So far the learning is not very efficient, I'm working on adjusting configuration and environment signals to improve the process. Created with TensorFlow.js.
 
 <img width="700" alt="Zrzut ekranu 2024-08-12 o 16 08 03" src="https://github.com/user-attachments/assets/c2b382b7-be6f-4f5b-a779-5f2d7f880865">
 
